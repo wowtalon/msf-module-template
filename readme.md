@@ -10,6 +10,8 @@ $ cd msf-module-template
 
 $ python3 -m venv venv
 
+$ source venv/bin/activate
+
 ```
 
 ## 使用方法
